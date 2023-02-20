@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - quote
+ * main - Entry Point
  * Return: 1 (complete)
  */
 int main(void)
